@@ -1,0 +1,154 @@
+[33mcommit 4d4b0152365830d75ed5d3c739882ac3894f25c5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: predator4hack <chandankum2440@gmail.com>
+Date:   Sun Oct 4 14:44:32 2020 +0530
+
+    added keras folder
+
+[33mcommit dccd520504a5fe21ceb3001f2105957bf163edc1[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: e7f5f01 5bbac2c
+Author: Haibin YU <buaanusyu@gmail.com>
+Date:   Mon Aug 10 18:01:25 2020 +0800
+
+    Merge pull request #22 from sudeeep885/patch-1
+    
+    Q10 week-4 quiz
+
+[33mcommit 5bbac2c9c60747d808d1978c07361e947b4c1ca5[m
+Author: Sudeep Chowdhary <56446184+sudeeep885@users.noreply.github.com>
+Date:   Thu Aug 6 15:32:25 2020 +0530
+
+    Q10 week-4 quiz
+    
+    The correct ans is 30x30x30x32
+
+[33mcommit e7f5f0133c2b84c0b4d51111b331a8879303ab2c[m
+Merge: 5e08244 20caf6a
+Author: Haibin YU <buaanusyu@gmail.com>
+Date:   Mon Jul 27 14:04:57 2020 +0800
+
+    Merge pull request #19 from FarhanSadaf/patch-1
+    
+    Update week4 quiz.md
+
+[33mcommit 20caf6ac67746a899eb4f453cbb4ebc3d49c4594[m
+Author: Farhan Sadaf <52249052+FarhanSadaf@users.noreply.github.com>
+Date:   Sat Jul 25 21:45:35 2020 +0600
+
+    Update week4 quiz.md
+
+[33mcommit 5e082445a28d65e61d573e23ac49e750e6b41518[m
+Merge: 43b5d83 4c62091
+Author: Haibin YU <buaanusyu@gmail.com>
+Date:   Sat Jul 4 15:17:42 2020 +0800
+
+    Merge pull request #18 from alexsomai/patch-1
+    
+    Update Autonomous+driving+application+-+Car+detection+-+v3.ipynb
+
+[33mcommit 4c62091a69b3e5ca66927e0d9c2271b8155d1168[m
+Author: Alexandru Somai <somai.alexandru@gmail.com>
+Date:   Thu Jul 2 20:53:59 2020 +0300
+
+    Update Autonomous+driving+application+-+Car+detection+-+v3.ipynb
+    
+    Fix code for the predict function
+
+[33mcommit 43b5d83d34731ed009226c6cc56ad750a92c619a[m
+Author: Haibin <haibin@MacBookPro.local>
+Date:   Mon Jun 15 14:02:58 2020 +0800
+
+    update 2020.6
+
+[33mcommit 594347629ee3d3cfe60b34777597aaf3e2748f7f[m
+Merge: 62ef9eb 1eb8619
+Author: Haibin <haibin@MacBook-Pro.local>
+Date:   Fri Sep 27 21:18:31 2019 +0800
+
+    Merge branch 'master' of github.com:HeroKillerEver/coursera-deep-learning
+
+[33mcommit 62ef9eb903902540c4a756a2a915ace995ae8cbe[m
+Author: Haibin <haibin@MacBook-Pro.local>
+Date:   Fri Sep 27 21:17:52 2019 +0800
+
+    update 2019.9.27
+
+[33mcommit 1eb86196271db4b28f62aa85344b87a44b38f30b[m
+Merge: a42ef89 549fb48
+Author: Haibin YU <buaanusyu@gmail.com>
+Date:   Fri Sep 6 13:04:27 2019 +0800
+
+    Merge pull request #1 from adi273628/patch-1
+    
+    Update week3 quiz.md
+
+[33mcommit 549fb48f4d98ac8cd178842d23a9f398ba79001a[m
+Author: ADITYA SINGH <43912172+adi273628@users.noreply.github.com>
+Date:   Tue Mar 5 01:01:59 2019 +0530
+
+    Update week3 quiz.md
+
+[33mcommit a42ef896c99ba8e9e7cf3dae963dda11c819f8d1[m
+Author: Haibin <haibin@9-90.priv31.nus.edu.sg>
+Date:   Sat Apr 21 22:33:15 2018 +0800
+
+    mod readme.md
+
+[33mcommit 4d316e2c5e89c9da9d48ffddcc4cefc64c6c6abd[m
+Author: Haibin <haibin@9-90.priv31.nus.edu.sg>
+Date:   Sat Apr 21 22:32:25 2018 +0800
+
+    mod readme.md
+
+[33mcommit c67828a58820e8b09c3248dfd205928a4dacc22d[m
+Author: Haibin <haibin@9-90.priv31.nus.edu.sg>
+Date:   Sat Apr 21 22:31:04 2018 +0800
+
+    mod readme.md
+
+[33mcommit a15652db71733f6f595a5ca484b98284d4772281[m
+Author: Haibin <haibin@9-90.priv31.nus.edu.sg>
+Date:   Sat Apr 21 22:28:39 2018 +0800
+
+    add more quiz
+
+[33mcommit 7283052c294adeefbe354731ed1aca2a76257d39[m
+Author: Haibin <haibin@miyang-MacBook-Pro.local>
+Date:   Tue Apr 17 13:06:20 2018 +0800
+
+    week1 quiz
+
+[33mcommit 8de795ba18817756e646af7d3e23d59874cd1c71[m
+Author: Haibin <haibin@miyang-MacBook-Pro.local>
+Date:   Mon Apr 16 14:59:31 2018 +0800
+
+    all
+
+[33mcommit 5b18353930dd01ca990f1101e3e51b835f40cc09[m
+Author: Haibin <haibin@miyang-MacBook-Pro.local>
+Date:   Mon Apr 16 14:45:02 2018 +0800
+
+    course 1
+
+[33mcommit 2ba1544ec9a71bb0ed4031e89275826f7f96bba3[m
+Author: Haibin <haibin@miyang-MacBook-Pro.local>
+Date:   Mon Apr 16 14:37:49 2018 +0800
+
+    README.md
+
+[33mcommit b2c1e380ceb7d61aef93a2ef7db37cc2b0d2df3a[m
+Author: Haibin <haibin@miyang-MacBook-Pro.local>
+Date:   Mon Apr 16 14:34:52 2018 +0800
+
+    Deep Learning Finishedgit statusgit status
+
+[33mcommit 3193b8e3c39e6cff269ceaf064972b449e99de7b[m
+Author: Haibin <haibin@miyang-MacBook-Pro.local>
+Date:   Wed Apr 11 19:00:28 2018 +0800
+
+    add README.md
+
+[33mcommit 47e1caa991b3e0b4e8b949bff8831f1adb44f1cb[m
+Author: Haibin <haibin@miyang-MacBook-Pro.local>
+Date:   Wed Apr 11 18:56:24 2018 +0800
+
+    convolutional neural network
